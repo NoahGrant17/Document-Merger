@@ -1,0 +1,7 @@
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\obj\Debug\Document Merger.csprojAssemblyReference.cache
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\obj\Debug\Document Merger.csproj.CoreCompileInputs.cache
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\bin\Debug\Document Merger.exe.config
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\bin\Debug\Document Merger.exe
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\bin\Debug\Document Merger.pdb
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\obj\Debug\Document Merger.exe
+C:\Users\Sheila\source\repos\Document Merger\Document Merger\obj\Debug\Document Merger.pdb
